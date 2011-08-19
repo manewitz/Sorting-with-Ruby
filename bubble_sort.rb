@@ -1,16 +1,8 @@
+#
 #       Mike's Ruby Bubble Sort v1.1
 #       Ruby implementation of a "Bubble Sort" algorithim
 
-
-
-# creates an Array of n numbers between 0 and r
-def create_test_data(n, r)
-  list = Array.new
-  until list.length == n do
-    list << rand(r)
-  end
-  list
-end
+require_relative 'create_test_data.rb'
 
 class BubbleSorter < Object
   def bubble_sort(list)
