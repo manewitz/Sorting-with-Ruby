@@ -17,7 +17,7 @@ class BubbleSorter < Object
     swaps = 0
     # parse the list until it is sorted
     until @sorted == true
-      # compare adjacent elements
+      # run the comparison of adjacent elements
       for i in 0...(list.length - 1)
         # if the first is greater than the second, swap them with parallel assignment
         if list[i] > list[i+1]
