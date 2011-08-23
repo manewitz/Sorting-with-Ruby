@@ -29,7 +29,7 @@ class SelectionSort < Object
 end
 
 # array of 20 values between 0 and 100
-list = create_test_data(20, 100)
+list = create_test_data(200, 1000)
 
 puts "Unsorted List:"
 p list

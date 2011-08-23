@@ -2,7 +2,7 @@
 def create_test_data(n, r)
   list = Array.new
   until list.length == n do
-    list << rand(r)
+    list << rand(r + 1)
   end
   list
 end

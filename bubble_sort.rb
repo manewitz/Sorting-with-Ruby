@@ -38,7 +38,7 @@ class BubbleSorter < Object
 end
 
 # creates an Array of 25 numbers between 0 and 100
-list = create_test_data(25, 100)
+list = create_test_data(200, 1000)
 
 puts "Unsorted List:"
 p list
