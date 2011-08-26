@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sorting With Ruby
 ============================  
 Welcome! As a budding Rubyist, I wanted to work on my Ruby chops and dive into algorithms. I noticed a dearth of well-documented Ruby examples, so I made some myself. Hopefully this will be helpful to someone looking to get started in sorting algorithms and/or Ruby. I am aware there is a `sort` method, but like most things I wanted to pick it apart and see how it worked. I'd love feedback on some more clever ways to do these.
@@ -28,10 +29,24 @@ Ruby implementation of the infamously inefficient ["Bubble Sort"](http://en.wiki
 
 
 
+=======
+8/17/11 - Bubble Sort v1.0
+>>>>>>> 4456f2fc62474a300525b67fd4e2901861b1d72e
 
 
+<<<<<<< HEAD
 
 Cheers!
 
 Mike Manewitz	
+=======
+Wikipedia: http://en.wikipedia.org/wiki/Bubble_sort
+
+Sorting Algorithms Site (with hot animated sorting action) : http://www.sorting-algorithms.com/bubble-sort
+
+Cheers!
+
+Mike Manewitz
+
+>>>>>>> 4456f2fc62474a300525b67fd4e2901861b1d72e
 mike.manewitz@gmail.com
